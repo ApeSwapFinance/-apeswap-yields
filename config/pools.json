@@ -11,9 +11,9 @@
         "56": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
       },
       "decimals": 18
-      },
+    },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "BNB",
       "address": {
         "56": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
       },
@@ -36,352 +36,21 @@
     "abi": "BEP20_REWARD_APE_ABI"
   },
   {
-    "sousId": 2,
-    "name": "SOUL/BANANA LP -> SOUL Reward Pool",
-    "tokenName": "SOUL",
-    "image": "SOUL.png",
-    "stakingTokenName": "BANANA-SOUL",
-    "stakingToken":{
-      "symbol":"",
-      "address":{
-        "97":"",
-        "56":""
-      },
-      "decimals":18
-    },
-    "rewardToken": {
-      "symbol": "",
-      "address": {
-        "56": "0x67d012F731c23F0313CEA1186d0121779c77fcFE"
-      },
-      "decimals": 18
-    },
-    "rewardPerBlock": 135800000000,
-    "startBlock": 5511250,
-    "bonusEndBlock": 5604850,
-    "contractAddress": {
-        "97": "0xb1108939748A635C5ed982a17FF5C6E7D79ECF62",
-        "56": "0xf5Cb9F954D3Ea26Bb503A6996a4b2B0aAdC8c969"
-    },
-    "poolCategory": "APEZONE",
-    "projectLink": "https://apoyield.com",
-    "harvest": true,
-    "sortOrder": 999,
-    "isFinished": true,
-    "tokenDecimals": 18,
-    "abi": "BEP20_REWARD_APE_ABI"
-  },
-  {
-    "sousId": 3,
-    "name": "SOUL/BANANA LP -> SOUL Reward Pool",
-    "tokenName": "SOUL",
-    "image": "SOUL.png",
-    "stakingTokenName": "BANANA-SOUL",
-    "stakingToken":{
-      "symbol":"",
-      "address":{
-        "97":"",
-        "56":""
-      },
-      "decimals":18
-    },
-    "rewardToken": {
-      "symbol": "",
-      "address": {
-        "56": "0x67d012F731c23F0313CEA1186d0121779c77fcFE"
-      },
-      "decimals": 8
-    },
-    "rewardPerBlock": 39600000000,
-    "startBlock": 5602450,
-    "bonusEndBlock": 5857050,
-    "contractAddress": {
-        "97": "0xb1108939748A635C5ed982a17FF5C6E7D79ECF62",
-        "56": "0x82576dB7685418CBDD5A9f4721D605C125E4569c"
-    },
-    "poolCategory": "APEZONE",
-    "projectLink": "https://apoyield.com",
-    "harvest": true,
-    "sortOrder": 999,
-    "isFinished": true,
-    "tokenDecimals": 8,
-    "abi": "BEP20_REWARD_APE_ABI"
-  },
-  {
-    "sousId": 4,
-    "name": "NUTS/BANANA LP -> NUTS Reward Pool",
-    "tokenName": "NUTS",
-    "stakingTokenName": "BANANA-NUTS",
-    "stakingToken":{
-      "symbol":"",
-      "address":{
-        "97":"",
-        "56":""
-      },
-      "decimals":18
-    },
-    "image": "NUTS.svg",
-    "rewardToken": {
-      "symbol": "",
-      "address": {
-        "56": "0x8893D5fA71389673C5c4b9b3cb4EE1ba71207556"
-      },
-      "decimals": 18
-    },
-    "rewardPerBlock": 86805555560000000,
-    "startBlock": 5629403,
-    "bonusEndBlock": 5658203,
-    "contractAddress": {
-        "97": "0xb1108939748A635C5ed982a17FF5C6E7D79ECF62",
-        "56": "0x3523cE00C9f82FfafC850C0Acccb78341239028b"
-    },
-    "poolCategory": "APEZONE",
-    "projectLink": "https://squirrel.finance/",
-    "harvest": true,
-    "sortOrder": 999,
-    "isFinished": true,
-    "tokenDecimals": 18,
-    "abi": "BEP20_REWARD_APE_ABI",
-    "lpStaking": true
-  },
-  {
-    "sousId": 5,
-    "name": "NUTS/BANANA LP -> BANANA Reward Pool",
-    "tokenName": "BANANA",
-    "stakingTokenName": "BANANA-NUTS",
-    "stakingToken":{
-      "symbol":"",
-      "address":{
-        "97":"",
-        "56":""
-      },
-      "decimals":18
-    },
-    "image": "BANANA.svg",
-    "rewardToken": {
-      "symbol": "",
-      "address": {
-        "56": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
-      },
-      "decimals": 18
-    },
-    "rewardPerBlock": 144652777800000000,
-    "startBlock": 5658203,
-    "bonusEndBlock": 5687003,
-    "contractAddress": {
-        "97": "0xb1108939748A635C5ed982a17FF5C6E7D79ECF62",
-        "56": "0xdb28A11Fe950C9979A8050E6cBA76D187D5C3b70"
-    },
-    "poolCategory": "APEZONE",
-    "projectLink": "https://squirrel.finance/",
-    "harvest": true,
-    "sortOrder": 999,
-    "isFinished": true,
-    "tokenDecimals": 18,
-    "abi": "BEP20_REWARD_APE_ABI",
-    "lpStaking": true
-  },
-  {
-    "sousId": 6,
-    "name": "CRX/BANANA LP -> CRX Reward Pool",
-    "tokenName": "CRX",
-    "stakingTokenName": "BANANA-CRX",
-    "stakingToken":{
-      "symbol":"",
-      "address":{
-        "97":"",
-        "56":""
-      },
-      "decimals":18
-    },
-    "image": "CRX.svg",
-    "rewardToken": {
-      "symbol": "",
-      "address": {
-        "56": "0x97a30C692eCe9C317235d48287d23d358170FC40"
-      },
-      "decimals": 18
-    },
-    "rewardPerBlock": 2604166666667000,
-    "startBlock": 5682212,
-    "bonusEndBlock": 5826212,
-    "contractAddress": {
-        "97": "0xb1108939748A635C5ed982a17FF5C6E7D79ECF62",
-        "56": "0x084beaa501dB448869001BA49913c9aD009b1694"
-    },
-    "poolCategory": "APEZONE",
-    "projectLink": "https://cryptexlock.me/",
-    "harvest": true,
-    "sortOrder": 999,
-    "isFinished": true,
-    "tokenDecimals": 18,
-    "abi": "BEP20_REWARD_APE_ABI",
-    "lpStaking": true
-  },
-  {
-    "sousId": 7,
-    "name": "NAUT/BNB LP -> NAUT Reward Pool",
-    "tokenName": "NAUT",
-    "stakingTokenName": "BNB-NAUT",
-    "stakingToken":{
-      "symbol":"",
-      "address":{
-        "97":"",
-        "56":""
-      },
-      "decimals":18
-    },
-    "image": "NAUT.png",
-    "rewardToken": {
-      "symbol": "",
-      "address": {
-        "56": "0x05B339B0A346bF01f851ddE47a5d485c34FE220c"
-      },
-      "decimals": true
-    },
-    "rewardPerBlock": "28935185",
-    "startBlock": 5720710,
-    "bonusEndBlock": 6584710,
-    "contractAddress": {
-        "97": "0xb1108939748A635C5ed982a17FF5C6E7D79ECF62",
-        "56": "0x114d54e18eb4A7Dc9bB8280e283E5799D4188E3f"
-    },
-    "poolCategory": "APEZONE",
-    "projectLink": "https://astronaut.to",
-    "harvest": true,
-    "sortOrder": 999,
-    "isFinished": true,
-    "tokenDecimals": 8,
-    "lpStaking": true,
-    "abi": "BEP20_REWARD_APE_ABI"
-  },
-  {
-    "sousId": 8,
-    "name": "NUTS/BANANA LP -> NUTZ Reward Pool",
-    "tokenName": "NUTS",
-    "stakingTokenName": "BANANA-NUTS",
-    "stakingToken":{
-      "symbol":"",
-      "address":{
-        "97":"",
-        "56":""
-      },
-      "decimals":18
-    },
-    "image": "NUTS.svg",
-    "rewardToken": {
-      "symbol": "",
-      "address": {
-        "56": "0x8893D5fA71389673C5c4b9b3cb4EE1ba71207556"
-      },
-      "decimals": true
-    },
-    "rewardPerBlock": "24965277777778000",
-    "startBlock": 5744527,
-    "bonusEndBlock": 5946127,
-    "contractAddress": {
-        "97": "0xb1108939748A635C5ed982a17FF5C6E7D79ECF62",
-        "56": "0x6Fd37f3F83F11100f9f501e2690E96F6fAC37E94"
-      },
-    "poolCategory": "APEZONE",
-    "projectLink": "https://squirrel.finance/",
-    "harvest": true,
-    "sortOrder": 999,
-    "isFinished": true,
-    "tokenDecimals": 18,
-    "lpStaking": true,
-    "abi": "BEP20_REWARD_APE_ABI"
-  },
-  {
-    "sousId": 10,
-    "name": "HPS/BANANA LP -> HPS Reward Pool",
-    "tokenName": "HPS",
-    "stakingTokenName": "BANANA-HPS",
-    "stakingToken":{
-      "symbol":"",
-      "address":{
-        "97":"",
-        "56":""
-      },
-      "decimals":18
-    },
-    "image": "HPS.png",
-    "rewardToken": {
-      "symbol": "",
-      "address": {
-        "56": "0xeDa21B525Ac789EaB1a08ef2404dd8505FfB973D"
-      },
-      "decimals": true
-    },
-    "rewardPerBlock": "14880952380952000",
-    "startBlock": 5850334,
-    "bonusEndBlock": 6253534,
-      "contractAddress": {
-        "97": "0xb1108939748A635C5ed982a17FF5C6E7D79ECF62",
-        "56": "0x9c64Cec2Ad86E918929665cF9AADf91cd755fEf1"
-    },
-    "poolCategory": "APEZONE",
-    "projectLink": "https://billionhappiness.finance",
-    "harvest": true,
-    "sortOrder": 999,
-    "isFinished": true,
-    "tokenDecimals": 18,
-    "lpStaking": true,
-    "abi": "BEP20_REWARD_APE_ABI"
-  },
-  {
-    "sousId": 11,
-    "name": "BRICK/BANANA LP -> BRICK Reward Pool",
-    "tokenName": "BRICK",
-    "stakingTokenName": "BANANA-BRICK",
-    "stakingToken":{
-      "symbol":"",
-      "address":{
-        "97":"",
-        "56":""
-      },
-      "decimals":18
-    },
-    "image": "BRICK.png",
-    "rewardToken": {
-      "symbol": "",
-      "address": {
-        "56": "0xc4DaA5a9f2B832eD0f9Bc579662883cD53EA9d61"
-      },
-      "decimals": true
-    },
-    "rewardPerBlock": "2976190476190476000",
-    "startBlock": 5878788,
-    "bonusEndBlock": 6080388,
-    "contractAddress": {
-        "97": "0xb1108939748A635C5ed982a17FF5C6E7D79ECF62",
-        "56": "0x6B7254AdfCa2178B7065b4B57fDc452c405DFC8A"
-    },
-    "poolCategory": "APEZONE",
-    "projectLink": "https://brickchain.finance",
-    "harvest": true,
-    "sortOrder": 999,
-    "isFinished": true,
-    "tokenDecimals": 18,
-    "lpStaking": true,
-    "abi": "BEP20_REWARD_APE_ABI"
-  },
-  {
     "sousId": 12,
     "name": "JDI/BNB LP -> JDI Reward Pool",
     "tokenName": "JDI",
     "stakingTokenName": "BNB-JDI",
     "stakingToken":{
-      "symbol":"",
-      "address":{
-        "97":"",
-        "56":""
+      "symbol": "BNB-JDI",
+      "address": {
+        "56": "0xfb6063f29af6dcd1fc03a8e221c6d91deabbe764"
       },
-      "decimals":18
+      "decimals": 18,
+      "lpToken": true
     },
     "image": "JDI.svg",
     "rewardToken": {
-      "symbol": "",
+      "symbol": "JDI",
       "address": {
         "56": "0x0491648c910ad2c1afaab733faf71d30313df7fc"
       },
@@ -417,7 +86,7 @@
       },
     "image": "FOXY.png",
     "rewardToken": {
-      "symbol": "",
+      "symbol": "FOXY",
       "address": {
         "56": "0x4354a4f710182966e55ea30cfa807fa1b821a67b"
       },
@@ -442,13 +111,8 @@
   {
     "sousId": 13,
     "name": "BANANA -> FOXY Reward Pool",
-    "rewardToken": {
-      "symbol": "",
-      "address": {
-        "56": "0x4354a4f710182966e55ea30cfa807fa1b821a67b"
-      },
-      "decimals": false
-    },
+    "tokenName": "FOXY",
+    "rewardToken": null,
     "rewardPerBlock": "57870370",
     "startBlock": 6348011,
     "bonusEndBlock": 7212011,
@@ -479,7 +143,7 @@
       },
     "image": "JDI.svg",
     "rewardToken": {
-      "symbol": "",
+      "symbol": "JDI",
       "address": {
         "56": "0x0491648C910ad2c1aFaab733faF71D30313Df7FC"
       },
@@ -515,7 +179,7 @@
       },
     "image": "LYPTUS.png",
     "rewardToken": {
-      "symbol": "",
+      "symbol": "LYPTUS",
       "address": {
         "56": "0xBA26397cdFF25F0D26E815d218Ef3C77609ae7f1"
       },
@@ -551,7 +215,7 @@
       },
     "image": "SWAMP.svg",
     "rewardToken": {
-      "symbol": "",
+      "symbol": "SWAMP",
       "address": {
         "56": "0xc5A49b4CBe004b6FD55B30Ba1dE6AC360FF9765d"
       },
@@ -588,7 +252,7 @@
     },
     "image": "NAUT.png",
     "rewardToken": {
-      "symbol": "",
+      "symbol": "NAUT",
       "address": {
         "56": "0x05b339b0a346bf01f851dde47a5d485c34fe220c"
       },
@@ -624,7 +288,7 @@
       },
     "image": "ALLOY.png",
     "rewardToken": {
-      "symbol": "",
+      "symbol": "ALLOY",
       "address": {
         "56": "0x5ef5994fa33ff4eb6c82d51ee1dc145c546065bd"
       },
@@ -660,7 +324,7 @@
       },
     "image": "NAUT.png",
     "rewardToken": {
-      "symbol": "",
+      "symbol": "NAUT",
       "address": {
         "56": "0x05B339B0A346bF01f851ddE47a5d485c34FE220c"
       },
@@ -696,7 +360,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "BANANA",
       "address": {
         "56": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
       },
@@ -731,7 +395,7 @@
       "decimals": 18
       },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "ONT",
       "address": {
         "56": "0xFd7B3A77848f1C2D67E05E54d78d174a0C850335"
       },
@@ -766,7 +430,7 @@
       "decimals": 18
       },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "NFTL",
       "address": {
         "56": "0xE5904E9816b309d3eD4d061c922f5aa8f3B24C92"
       },
@@ -802,7 +466,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "BFT",
       "address": {
         "56": "0xa4f93159ce0a4b533b443c74b89967c60a5969f8"
       },
@@ -838,7 +502,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "BFT",
       "address": {
         "56": "0xa4f93159ce0a4b533b443c74b89967c60a5969f8"
       },
@@ -874,7 +538,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "SAFEP",
       "address": {
         "56": "0xA8c514D991F59baB02d32b68f04204cB89261c88"
       },
@@ -910,7 +574,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "GEN",
       "address": {
         "56": "0xb0f2939a1c0e43683e5954c9fe142f7df9f8d967"
       },
@@ -947,7 +611,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "JDI",
       "address": {
         "56": "0x0491648c910ad2c1afaab733faf71d30313df7fc"
       },
@@ -983,7 +647,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "BINGUS",
       "address": {
         "56": "0xda20c8a5c3b1ab48e31ba6e43f0f2830e50218d8"
       },
@@ -1019,7 +683,7 @@
       "decimals": 18
       },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "bxBTC",
       "address": {
         "56": "0xab111d5948470ba73d98d66bbdf2798fbe093546"
       },
@@ -1055,7 +719,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "vBSWAP",
       "address": {
         "56": "0x4f0ed527e8a95ecaa132af214dfd41f30b361600"
       },
@@ -1091,7 +755,7 @@
       "decimals": 18
       },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "WATCH",
       "address": {
         "56": "0x7a9f28eb62c791422aa23ceae1da9c847cbec9b0"
       },
@@ -1127,7 +791,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "KEYFI",
       "address": {
         "56": "0x4b6000f9163de2e3f0a01ec37e06e1469dbbce9d"
       },
@@ -1163,7 +827,7 @@
       "decimals": 18
       },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "BFT",
       "address": {
         "56": "0xa4f93159ce0a4b533b443c74b89967c60a5969f8"
       },
@@ -1199,7 +863,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "NRV",
       "address": {
         "56": "0x42F6f551ae042cBe50C739158b4f0CAC0Edb9096"
       },
@@ -1235,7 +899,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "MOONLIGHT",
       "address": {
         "56": "0xb1ced2e320e3f4c8e3511b1dc59203303493f382"
       },
@@ -1272,7 +936,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "SPACE",
       "address": {
         "56": "0xe486a69E432Fdc29622bF00315f6b34C99b45e80"
       },
@@ -1308,7 +972,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "TAPE",
       "address": {
         "56": "0xf63400ee0420ce5b1ebdee0c942d7de1c734a41f"
       },
@@ -1344,7 +1008,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "SPACE",
       "address": {
         "56": "0xe486a69e432fdc29622bf00315f6b34c99b45e80"
       },
@@ -1380,7 +1044,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "pCWS",
       "address": {
         "56": "0xbcf39f0edda668c58371e519af37ca705f2bfcbd"
       },
@@ -1416,7 +1080,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "TYPH",
       "address": {
         "56": "0x4090e535f2e251f5f88518998b18b54d26b3b07c"
       },
@@ -1452,7 +1116,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "bMXX",
       "address": {
         "56": "0x4131b87f74415190425ccd873048c708f8005823"
       },
@@ -1489,7 +1153,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "HIFI",
       "address": {
         "56": "0x0a38bc18022b0ccb043f7b730b354d554c6230f1"
       },
@@ -1525,7 +1189,7 @@
     },
     "image": "crush.svg",
     "rewardToken": {
-      "symbol": "",
+      "symbol": "CRUSH",
       "address": {
         "56": "0x0Ef0626736c2d484A792508e99949736D0AF807e"
       },
@@ -1561,7 +1225,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "GRAND",
       "address": {
         "56": "0xee814f5b2bf700d2e843dc56835d28d095161dd9"
       },
@@ -1597,7 +1261,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "GMR",
       "address": {
         "56": "0x0523215dcafbf4e4aa92117d13c6985a3bef27d7"
       },
@@ -1633,7 +1297,7 @@
       "decimals": 18
       },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "WINGS",
       "address": {
         "56": "0x0487b824c8261462f88940f97053e65bdb498446"
       },
@@ -1669,7 +1333,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "HERO",
       "address": {
         "56": "0x9b26e16377ad29a6ccc01770bcfb56de3a36d8b2"
       },
@@ -1705,7 +1369,7 @@
       "decimals": 18
       },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "FOXY",
       "address": {
         "56": "0x4354a4f710182966e55ea30cfa807fa1b821a67b"
       },
@@ -1741,7 +1405,7 @@
       "decimals": 18
       },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "MBOX",
       "address": {
         "56": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377"
       },
@@ -1777,7 +1441,7 @@
       "decimals": 18
       },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "WYVERN",
       "address": {
         "56": "0x470862af0cf8d27ebfe0ff77b0649779c29186db"
       },
@@ -1813,7 +1477,7 @@
       "decimals": 18
       },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "BOG",
       "address": {
         "56": "0xb09fe1613fe03e7361319d2a43edc17422f36b09"
       },
@@ -1849,7 +1513,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "HIFI",
       "address": {
         "56": "0x0a38bc18022b0ccb043f7b730b354d554c6230f1"
       },
@@ -1885,7 +1549,7 @@
       "decimals": 18
       },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "LORY",
       "address": {
         "56": "0xcd5d75dbe75449a9021b6c570a41959eb571c751"
       },
@@ -1921,7 +1585,7 @@
       "decimals": 18
       },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "SCAM",
       "address": {
         "56": "0x00aa85e010204068b7cc2235800b2d8036bdbf2e"
       },
@@ -1957,7 +1621,7 @@
       "decimals": 18
       },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "FRUIT",
       "address": {
         "56": "0x4ecfb95896660aa7f54003e967e7b283441a2b0a"
       },
@@ -1993,7 +1657,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "SKILL",
       "address": {
         "56": "0x154a9f9cbd3449ad22fdae23044319d6ef2a1fab"
       },
@@ -2029,7 +1693,7 @@
       "decimals": 18
       },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "GNT",
       "address": {
         "56": "0xf750a26eb0acf95556e8529e72ed530f3b60f348"
       },
@@ -2065,7 +1729,7 @@
       "decimals": 18
       },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "PACOCA",
       "address": {
         "56": "0x55671114d774ee99d653d6c12460c780a67f1d18"
       },
@@ -2101,7 +1765,7 @@
       "decimals": 18
       },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "NEWB",
       "address": {
         "56": "0x545f90dc35ca1e6129f1fed354b3e2df12034261"
       },
@@ -2137,7 +1801,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "BISON",
       "address": {
         "56": "0x19a6da6e382b85f827088092a3dbe864d9ccba73"
       },
@@ -2173,7 +1837,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "TWIN",
       "address": {
         "56": "0x62907ad5c2d79e2a4f048a90ae2b49d062a773f3"
       },
@@ -2209,7 +1873,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "NALIS",
       "address": {
         "56": "0xb2ebaa0ad65e9c888008bf10646016f7fcdd73c3"
       },
@@ -2245,7 +1909,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "STARS",
       "address": {
         "56": "0xbd83010eb60f12112908774998f65761cf9f6f9a"
       },
@@ -2281,7 +1945,7 @@
       "decimals": 18
       },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "SISTA",
       "address": {
         "56": "0xca6d25c10dad43ae8be0bc2af4d3cd1114583c08"
       },
@@ -2317,7 +1981,7 @@
       "decimals": 18
       },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "CAPS",
       "address": {
         "56": "0xffba7529ac181c2ee1844548e6d7061c9a597df4"
       },
@@ -2353,7 +2017,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "BIRB",
       "address": {
         "56": "0x82a479264b36104be4fdb91618a59a4fc0f50650"
       },
@@ -2389,7 +2053,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "DINOP",
       "address": {
         "56": "0xea90DC6F64d18771Ca1dac8098526a9082265B42"
       },
@@ -2425,7 +2089,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "MARU",
       "address": {
         "56": "0x215f51990a0ca5aa360a177181f014e2da376e5e"
       },
@@ -2461,7 +2125,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "PERA",
       "address": {
         "56": "0xb9d8592e16a9c1a3ae6021cddb324eac1cbc70d6"
       },
@@ -2497,7 +2161,7 @@
       "decimals": 18
       },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "GUARD",
       "address": {
         "56": "0xf606bd19b1e61574ed625d9ea96c841d4e247a32"
       },
@@ -2533,7 +2197,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "LAND",
       "address": {
         "56": "0x9d986a3f147212327dd658f712d5264a73a1fdb0"
       },
@@ -2569,7 +2233,7 @@
       "decimals": 18
       },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "POTS",
       "address": {
         "56": "0x3fcca8648651e5b974dd6d3e50f61567779772a8"
       },
@@ -2605,7 +2269,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "SACT",
       "address": {
         "56": "0x1ba8c21c623c843cd4c60438d70e7ad50f363fbb"
       },
@@ -2641,7 +2305,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "BHC",
       "address": {
         "56": "0x6fd7c98458a943f469E1Cf4eA85B173f5Cd342F4"
       },
@@ -2677,7 +2341,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "CYT",
       "address": {
         "56": "0xd9025e25bb6cf39f8c926a704039d2dd51088063"
       },
@@ -2713,7 +2377,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "HOTCROSS",
       "address": {
         "56": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6"
       },
@@ -2749,7 +2413,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "LMT",
       "address": {
         "56": "0x9617857e191354dbea0b714d78bc59e57c411087"
       },
@@ -2785,7 +2449,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "FOOT",
       "address": {
         "56": "0x1c64fd4f55e1a3c1f737dfa47ee5f97eaf413cf0"
       },
@@ -2821,7 +2485,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "NABOX",
       "address": {
         "56": "0x755f34709e369d37c6fa52808ae84a32007d1155"
       },
@@ -2857,7 +2521,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "BABI",
       "address": {
         "56": "0xec15a508a187e8ddfe572a5423faa82bbdd65120"
       },
@@ -2893,7 +2557,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "REVV",
       "address": {
         "56": "0x833F307aC507D47309fD8CDD1F835BeF8D702a93"
       },
@@ -2929,7 +2593,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "WIZARD",
       "address": {
         "56": "0x5066C68cAe3B9BdaCD6A1A37c90F2d1723559D18"
       },
@@ -2965,7 +2629,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "GNT",
       "address": {
         "56": "0xf750a26eb0acf95556e8529e72ed530f3b60f348"
       },
@@ -3001,7 +2665,7 @@
       "decimals": 18
       },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "CLA",
       "address": {
         "56": "0xf6663f46ecd7ae8ee8b6cc54681a42eba0ef52b4"
       },
@@ -3037,7 +2701,7 @@
       "decimals":18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "ZIG",
       "address": {
         "56": "0x8C907e0a72C3d55627E853f4ec6a96b0C8771145"
       },
@@ -3064,17 +2728,16 @@
     "name": "BANANA --> NVT",
     "tokenName": "NVT",
     "image": "NVT.svg",
-    "stakingTokenName": "BANANA",
-    "stakingToken":{
-      "symbol":"",
-      "address":{
-        "97":"",
-        "56":""
+    "stakingToken": {
+      "symbol": "BANANA",
+      "address": {
+        "97": "0x4Fb99590cA95fc3255D9fA66a1cA46c43C34b09a",
+        "56": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
       },
-      "decimals":18
+      "decimals": 18
     },
     "rewardToken": {
-      "symbol": "",
+      "symbol": "NVT",
       "address": {
         "56": "0xf0e406c49c63abf358030a299c0e00118c4c6ba5"
       },
