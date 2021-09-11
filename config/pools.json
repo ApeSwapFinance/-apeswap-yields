@@ -74,7 +74,7 @@
     "name": "JDI/BNB LP -> JDI Reward Pool",
     "tokenName": "JDI",
     "stakingTokenName": "BNB-JDI",
-    "stakingToken":{
+    "stakingToken": {
       "symbol": "BNB-JDI",
       "address": {
         "56": "0xfb6063f29af6dcd1fc03a8e221c6d91deabbe764"
@@ -251,43 +251,6 @@
     "abi": "BEP20_REWARD_APE_ABI"
   },
   {
-    "sousId": 18,
-    "name": "NAUT/BNB -> NAUT Reward Pool",
-    "tokenName": "NAUT",
-    "stakingTokenName": "BNB-NAUT",
-    "stakingToken":{
-      "symbol":"",
-      "address":{
-        "97":"",
-        "56":""
-      },
-      "decimals":18
-    },
-    "image": "NAUT.png",
-    "rewardToken": {
-      "symbol": "NAUT",
-      "address": {
-        "56": "0x05b339b0a346bf01f851dde47a5d485c34fe220c"
-      },
-      "decimals": true
-    },
-    "rewardPerBlock": "4960317",
-    "startBlock": 6658428,
-    "bonusEndBlock": 7061628,
-    "contractAddress": {
-        "97": "0xb1108939748A635C5ed982a17FF5C6E7D79ECF62",
-        "56": "0x330de89a559a75738acB5b87aE93579120d53AfB"
-    },
-    "poolCategory": "APEZONE",
-    "projectLink": "https://astronaut.to",
-    "harvest": true,
-    "sortOrder": 6,
-    "isFinished": false,
-    "tokenDecimals": 8,
-    "lpStaking": true,
-    "abi": "BEP20_REWARD_APE_ABI"
-  },
-  {
     "sousId": 19,
     "name": "BANANA -> ALLOY Reward Pool",
     "tokenName": "ALLOY",
@@ -320,42 +283,6 @@
     "sortOrder": 5,
     "isFinished": false,
     "tokenDecimals": 18,
-    "lpStaking": false,
-    "abi": "BEP20_REWARD_APE_ABI"
-  },
-  {
-    "sousId": 20,
-    "name": "BANANA -> NAUT Reward Pool",
-    "tokenName": "NAUT",
-    "stakingToken": {
-      "symbol": "BANANA",
-      "address": {
-        "97": "0x4Fb99590cA95fc3255D9fA66a1cA46c43C34b09a",
-        "56": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
-      },
-      "decimals": 18
-      },
-    "image": "NAUT.png",
-    "rewardToken": {
-      "symbol": "NAUT",
-      "address": {
-        "56": "0x05B339B0A346bF01f851ddE47a5d485c34FE220c"
-      },
-      "decimals": false
-    },
-    "rewardPerBlock": "3858024",
-    "startBlock": 6744393,
-    "bonusEndBlock": 9336393,
-    "contractAddress": {
-        "97": "0xb1108939748A635C5ed982a17FF5C6E7D79ECF62",
-        "56": "0xDC0913b2bf505E03794f0A68a0DbBa333D8e0E01"
-    },
-    "poolCategory": "CORE",
-    "projectLink": "https://astronaut.to",
-    "harvest": true,
-    "sortOrder": 5,
-    "isFinished": false,
-    "tokenDecimals": 8,
     "lpStaking": false,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -461,43 +388,6 @@
     "harvest": true,
     "sortOrder": 999,
     "isFinished": true,
-    "tokenDecimals": 18,
-    "abi": "BEP20_REWARD_APE_ABI"
-  },
-  {
-    "sousId": 24,
-    "name": "BFT -> BFT",
-    "tokenName": "BFT",
-    "image": "BFT.svg",
-    "stakingTokenName": "BFT",
-    "stakingToken":{
-      "symbol":"",
-      "address":{
-        "97":"",
-        "56":""
-      },
-      "decimals":18
-    },
-    "rewardToken": {
-      "symbol": "BFT",
-      "address": {
-        "56": "0xa4f93159ce0a4b533b443c74b89967c60a5969f8"
-      },
-      "decimals": 18
-    },
-    "rewardPerBlock": "3858024691358025000",
-    "startBlock": 6834460,
-    "bonusEndBlock": 9426460,
-    "contractAddress": {
-        "97": "0x3996F919980778cb0fc1982087cAc01089e33fe7", 
-        "56": "0x49bbB345c432b9B66b407f1525A81A84F4509b8b"
-    },
-    "poolCategory": "APEZONE",
-    "projectLink": "https://www.bitfresh.win",
-    "harvest": true,
-    "sortOrder": 1.01,
-    "reflect": true,
-    "isFinished": false,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -615,13 +505,13 @@
     "tokenName": "JDI",
     "image": "JDI.svg",
     "stakingTokenName": "JDI",
-    "stakingToken":{
-      "symbol":"",
-      "address":{
-        "97":"",
-        "56":""
+    "stakingToken": {
+      "symbol": "JDI",
+      "address": {
+        "56": "0x0491648c910ad2c1afaab733faf71d30313df7fc",
+        "137": "0x340fe1d898eccaad394e2ba0fc1f93d27c7b717a"
       },
-      "decimals":18
+      "decimals": 18
     },
     "rewardToken": {
       "symbol": "JDI",
@@ -935,43 +825,6 @@
     "abi": "BEP20_REWARD_APE_ABI"
   },
   {
-    "sousId": 37,
-    "name": "SPACE/BNB -> SPACE",
-    "tokenName": "SPACE",
-    "image": "SPACE.svg",
-    "stakingTokenName": "SPACE-BNB",
-    "stakingToken":{
-      "symbol":"",
-      "address":{
-        "97":"",
-        "56":""
-      },
-      "decimals":18
-    },
-    "rewardToken": {
-      "symbol": "SPACE",
-      "address": {
-        "56": "0xe486a69E432Fdc29622bF00315f6b34C99b45e80"
-      },
-      "decimals": 18
-    },
-    "rewardPerBlock": "27557043650000000",
-    "startBlock": 7706570,
-    "bonusEndBlock": 8109770,
-    "contractAddress": {
-        "97": "0x3996F919980778cb0fc1982087cAc01089e33fe7",
-        "56": "0xfE615dA45dBC8C763851A34Cf14d65B0056a2D8A"
-    },
-    "poolCategory": "APEZONE",
-    "projectLink": "https://aperocket.finance/",
-    "harvest": true,
-    "sortOrder": 999,
-    "reflect": false,
-    "isFinished": true,
-    "tokenDecimals": 18,
-    "abi": "BEP20_REWARD_APE_ABI"
-  },
-  {
     "sousId": 38,
     "name": "GNANA -> TAPE",
     "tokenName": "TAPE",
@@ -1148,43 +1001,6 @@
     "sortOrder": 3,
     "reflect": false,
     "isFinished": false,
-    "tokenDecimals": 18,
-    "abi": "BEP20_REWARD_APE_ABI"
-  },
-  {
-    "sousId": 43,
-    "name": "HIFI/BNB -> HIFI",
-    "tokenName": "HIFI",
-    "image": "HIFI.svg",
-    "stakingTokenName": "HIFI-BNB",
-    "stakingToken":{
-      "symbol":"",
-      "address":{
-        "97":"",
-        "56":""
-      },
-      "decimals":18
-    },
-    "rewardToken": {
-      "symbol": "HIFI",
-      "address": {
-        "56": "0x0a38bc18022b0ccb043f7b730b354d554c6230f1"
-      },
-      "decimals": 18
-    },
-    "rewardPerBlock": "49603174603174600000",
-    "startBlock": 8199995,
-    "bonusEndBlock": 8401595,
-    "contractAddress": {
-        "97": "0x3996F919980778cb0fc1982087cAc01089e33fe7",
-        "56": "0x454155ac563a382458eda66fdaf59237d7230dc9"
-    },
-    "poolCategory": "APEZONE",
-    "projectLink": "https://hifigamingsociety.com",
-    "harvest": true,
-    "sortOrder": 999,
-    "reflect": false,
-    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
