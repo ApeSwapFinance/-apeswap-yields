@@ -1,5 +1,39 @@
 [
   {
+    "sousId": 0,
+    "name": "BANANA -> BANANA Reward Pool",
+    "tokenName": "BANANA",
+    "image": "BANANA.svg",
+    "stakingToken": {
+      "symbol": "BANANA",
+      "address": {
+        "97": "0x4Fb99590cA95fc3255D9fA66a1cA46c43C34b09a",
+        "56": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals": 18
+    },
+    "rewardToken": {
+      "symbol": "BANANA",
+      "address": {
+        "56": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 0,
+    "startBlock": 0,
+    "bonusEndBlock": 0,
+    "contractAddress": {
+        "97": "0x88777a814946cd8eb80e7029eedf05cc6cf34168",
+        "56": "0x5c8D727b265DBAfaba67E050f2f739cAeEB4A6F9"
+    },
+    "poolCategory": "CORE",
+    "projectLink": "https://apeswap.finance/",
+    "harvest": true,
+    "sortOrder": 999,
+    "isFinished": true,
+    "tokenDecimals": 18
+  },
+  {
     "sousId": 1,
     "name": "BANANA -> BNB Reward Pool",
     "tokenName": "BNB",
