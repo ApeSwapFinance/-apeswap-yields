@@ -124,7 +124,7 @@
       "address": {
         "56": "0x4354a4f710182966e55ea30cfa807fa1b821a67b"
       },
-      "decimals": false
+      "decimals": 9
     },
     "rewardPerBlock": "57870370",
     "startBlock": 6346011,
@@ -196,7 +196,7 @@
       "address": {
         "56": "0xBA26397cdFF25F0D26E815d218Ef3C77609ae7f1"
       },
-      "decimals": false
+      "decimals": 18
     },
     "rewardPerBlock": "34722222222222000",
     "startBlock": 6427200,
@@ -232,7 +232,7 @@
       "address": {
         "56": "0xc5A49b4CBe004b6FD55B30Ba1dE6AC360FF9765d"
       },
-      "decimals": false
+      "decimals": 18
     },
     "rewardPerBlock": "479442180800000",
     "startBlock": 6680032,
@@ -2570,7 +2570,7 @@
       "address": {
         "56": "0xf0e406c49c63abf358030a299c0e00118c4c6ba5"
       },
-      "decimals": false
+      "decimals": 8
     },
     "rewardPerBlock": "144675925",
     "startBlock": 10461955,
