@@ -30,7 +30,7 @@
     "projectLink": "https://apeswap.finance/",
     "harvest": true,
     "sortOrder": 999,
-    "isFinished": true,
+    "isFinished": false,
     "tokenDecimals": 18
   },
   {
@@ -137,7 +137,7 @@
     "projectLink": "https://foxynft.org",
     "harvest": true,
     "sortOrder": 4,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 9,
     "lpStaking": false,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -173,7 +173,7 @@
     "projectLink": "https://jdiyield.com",
     "harvest": true,
     "sortOrder": 3,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "lpStaking": false,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -209,7 +209,7 @@
     "projectLink": "https://koaladefi.finance/",
     "harvest": true,
     "sortOrder": 3,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "lpStaking": false,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -245,7 +245,7 @@
     "projectLink": "https://swamp.finance",
     "harvest": true,
     "sortOrder": 7,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "lpStaking": false,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -268,7 +268,7 @@
       "address": {
         "56": "0x5ef5994fa33ff4eb6c82d51ee1dc145c546065bd"
       },
-      "decimals": false
+      "decimals": 18
     },
     "rewardPerBlock": "1467673032",
     "startBlock": 6707400,
@@ -281,7 +281,7 @@
     "projectLink": "https://hyperjump.fi",
     "harvest": true,
     "sortOrder": 5,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "lpStaking": false,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -352,7 +352,7 @@
     "projectLink": "https://ont.io",
     "harvest": true,
     "sortOrder": 2,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -423,7 +423,7 @@
     "harvest": true,
     "sortOrder": 3,
     "reflect": true,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -495,7 +495,7 @@
     "harvest": true,
     "sortOrder": 3,
     "reflect": true,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -531,7 +531,7 @@
     "projectLink": "https://jdiyield.com",
     "harvest": true,
     "sortOrder": 3,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "reflect": true,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -568,7 +568,7 @@
     "harvest": true,
     "sortOrder": 3,
     "reflect": true,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 9,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -640,7 +640,7 @@
     "harvest": true,
     "sortOrder": 6,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -676,7 +676,7 @@
     "harvest": true,
     "sortOrder": 2,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -712,7 +712,7 @@
     "harvest": true,
     "sortOrder": 2,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -784,7 +784,7 @@
     "harvest": true,
     "sortOrder": 2,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -820,7 +820,7 @@
     "harvest": true,
     "sortOrder": 3,
     "reflect": true,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 9,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -856,7 +856,7 @@
     "harvest": true,
     "sortOrder": 3,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -892,7 +892,7 @@
     "harvest": true,
     "sortOrder": 2,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -1000,7 +1000,7 @@
     "harvest": true,
     "sortOrder": 3,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -1036,7 +1036,7 @@
     "harvest": true,
     "sortOrder": 4,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -1072,7 +1072,7 @@
     "harvest": true,
     "sortOrder": 5,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -1108,7 +1108,7 @@
     "harvest": true,
     "sortOrder": 6,
     "reflect": true,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 9,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -1144,7 +1144,7 @@
     "harvest": true,
     "sortOrder": 6,
     "reflect": true,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -1180,7 +1180,7 @@
     "harvest": true,
     "sortOrder": 6,
     "reflect": true,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -1216,7 +1216,7 @@
     "harvest": true,
     "sortOrder": 6,
     "reflect": true,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 9,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -1252,7 +1252,7 @@
     "harvest": true,
     "sortOrder": 3,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -1288,7 +1288,7 @@
     "harvest": true,
     "sortOrder": 5,
     "reflect": true,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 9,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -1324,7 +1324,7 @@
     "harvest": true,
     "sortOrder": 4,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -1360,7 +1360,7 @@
     "harvest": true,
     "sortOrder": 4,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -1432,7 +1432,7 @@
     "harvest": true,
     "sortOrder": 4,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 10,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -1468,7 +1468,7 @@
     "harvest": true,
     "sortOrder": 3,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -1504,7 +1504,7 @@
     "harvest": true,
     "sortOrder": 2,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -1540,7 +1540,7 @@
     "harvest": true,
     "sortOrder": 2,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -1576,7 +1576,7 @@
     "harvest": true,
     "sortOrder": 2,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -1612,7 +1612,7 @@
     "harvest": true,
     "sortOrder": 2,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -1648,7 +1648,7 @@
     "harvest": true,
     "sortOrder": 1,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -1684,7 +1684,7 @@
     "harvest": true,
     "sortOrder": 63,
     "reflect": true,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -1720,7 +1720,7 @@
     "harvest": true,
     "sortOrder": 2,
     "reflect": true,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -1756,7 +1756,7 @@
     "harvest": true,
     "sortOrder": 2,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -1828,7 +1828,7 @@
     "harvest": true,
     "sortOrder": 2,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -1864,7 +1864,7 @@
     "harvest": true,
     "sortOrder": 2,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -1936,7 +1936,7 @@
     "harvest": true,
     "sortOrder": 2,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -1972,7 +1972,7 @@
     "harvest": true,
     "sortOrder": 2,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -2080,7 +2080,7 @@
     "harvest": true,
     "sortOrder": 2,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -2116,7 +2116,7 @@
     "harvest": true,
     "sortOrder": 2,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -2152,7 +2152,7 @@
     "harvest": true,
     "sortOrder": 2,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -2296,7 +2296,7 @@
     "harvest": true,
     "sortOrder": 1,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -2332,7 +2332,7 @@
     "harvest": true,
     "sortOrder": 1,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -2368,7 +2368,7 @@
     "harvest": true,
     "sortOrder": 1,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -2512,7 +2512,7 @@
     "harvest": true,
     "sortOrder": 1,
     "reflect": true,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -2584,7 +2584,7 @@
     "harvest": true,
     "sortOrder": 1,
     "reflect": false,
-    "isFinished": false,
+    "isFinished": true,
     "tokenDecimals": 8,
     "abi": "BEP20_REWARD_APE_ABI"
   },
