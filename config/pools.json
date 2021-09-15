@@ -1648,7 +1648,7 @@
     "harvest": true,
     "sortOrder": 1,
     "reflect": false,
-    "isFinished": true,
+    "isFinished": false,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
