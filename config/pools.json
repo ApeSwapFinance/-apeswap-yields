@@ -2962,5 +2962,209 @@
     "reflect": false,
     "isFinished": false,
     "tokenDecimals": 18
+  },
+  {
+    "sousId": 102,
+    "tokenName": "RSUN",
+    "image": "RSUN.svg",
+    "stakingToken": {
+      "symbol": "BANANA",
+      "address": {
+        "97": "0x4Fb99590cA95fc3255D9fA66a1cA46c43C34b09a",
+        "56": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals": 18
+    },
+    "rewardToken": {
+      "symbol": "RSUN",
+      "address": {
+        "56": "0x917841c010b3d86ed886f36f2c9807e07a2e3093"
+      },
+      "decimals": 9
+    },
+    "rewardPerBlock": 97589157407,
+    "startBlock": 10833495,
+    "bonusEndBlock": 12561495,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xa782cab148a3d33498e7f85b0491d4f364609c22"
+    },
+    "poolCategory": "CORE",
+    "projectLink": "https://risingsun.finance/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 9
+  },
+  {
+    "sousId": 103,
+    "tokenName": "TXL",
+    "image": "TXL.svg",
+    "stakingToken": {
+      "symbol": "BANANA",
+      "address": {
+        "97": "0x4Fb99590cA95fc3255D9fA66a1cA46c43C34b09a",
+        "56": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals": 18
+    },
+    "rewardToken": {
+      "symbol": "TXL",
+      "address": {
+        "56": "0x1ffd0b47127fdd4097e54521c9e2c7f0d66aafc5"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 330932291666666666,
+    "startBlock": 10856023,
+    "bonusEndBlock": 12584023,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x03643a66e0a121839d230364fab392aa583cb984"
+    },
+    "poolCategory": "CORE",
+    "projectLink": "https://tixl.org/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 104,
+    "tokenName": "SFUND",
+    "image": "SFUND.svg",
+    "stakingToken": {
+      "symbol": "BANANA",
+      "address": {
+        "97": "0x4Fb99590cA95fc3255D9fA66a1cA46c43C34b09a",
+        "56": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals": 18
+    },
+    "rewardToken": {
+      "symbol": "SFUND",
+      "address": {
+        "56": "0x477bc8d23c634c154061869478bce96be6045d12"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 40509259259259259,
+    "startBlock": 10862023,
+    "bonusEndBlock": 11726023,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xce12fb8d5e3f1acb469c8b9f657fd8188ca21e87"
+    },
+    "poolCategory": "CORE",
+    "projectLink": "https://seedify.fund/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 105,
+    "tokenName": "PHX",
+    "image": "PHX.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "PHX",
+      "address": {
+        "56": "0xac86e5f9bA48d680516df50C72928c2ec50F3025"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 636574074074074074,
+    "startBlock": 10890709,
+    "bonusEndBlock": 12618709,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x05db8d4a67d293b43aa1db8cf38850fe790dbf29"
+    },
+    "poolCategory": "CORE",
+    "projectLink": "https://www.phx.finance/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 106,
+    "tokenName": "POTS",
+    "image": "POTS.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "POTS",
+      "address": {
+        "56": "0x3Fcca8648651E5b974DD6d3e50F61567779772A8"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 13611111111111111,
+    "startBlock": 10919463,
+    "bonusEndBlock": 11783463,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x84cda09920232b5b138180b55759b218bf243645"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://moonpot.com",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 107,
+    "tokenName": "FRMX",
+    "image": "FRMX.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "FRMX",
+      "address": {
+        "56": "0x8523518001ad5d24b2A04e8729743C0643A316c0"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 11226851851851,
+    "startBlock": 10948235,
+    "bonusEndBlock": 12676235,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xac19462e8c9207cd1613292b93b5f7c65f1a597a"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://ferrum.network/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
   }
 ]
